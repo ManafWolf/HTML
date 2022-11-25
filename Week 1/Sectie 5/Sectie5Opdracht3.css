@@ -1,0 +1,30 @@
+.Doneer {
+  letter-spacing: 8px;
+}
+
+.Tekst1 {
+  display: inline;
+  letter-spacing: 8px;
+  float: left;
+}
+
+.Tekst2 {
+  letter-spacing: 8px;
+}
+
+.Credit {
+  display: inline;
+  color: orange;
+  height: 40px;
+  width: 40px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.Bescherm {
+  color: orange;
+  height: 40px;
+  width: 40px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
