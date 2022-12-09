@@ -1,0 +1,15 @@
+.Plaatje {
+  width: 100%;
+}
+
+.contact {
+  font-size: 20px;
+  color: orange;
+}
+
+.container {
+  font-family: "Courier New", Courier, monospace;
+  color: orange;
+  line-height: 30px;
+  margin-left: 40%;
+}
